@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colordrop-tool.surge.sh/sitemap.xml
